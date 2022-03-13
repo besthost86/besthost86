@@ -1,5 +1,5 @@
 
-### <h3>Hi there, I'm `Sebastian`</h3>
+### <h3 align="center">Hi there, I'm `Sebastian`</h3>
 
 <img width="1000px" height="200px" src=doggy.png>
 <img width="1000px" height="20px" src="anim.svg">
