@@ -3,8 +3,7 @@
 <h1 style="color: red;">Hi there 👋, I'm Sebastian </h1>
 </p>
 
-![Dog](https://github.com/besthost86/besthost86/blob/master/R.jpeg)
-
+<img src=https://github.com/besthost86/besthost86/blob/master/R.jpeg>
 ![](https://img.shields.io/endpoint?url=label=HTML&message=Web&style=for-the-badge&logo=appveyor)
 * JS
 * HTML
