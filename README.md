@@ -5,7 +5,7 @@
 
 ![Dog](https://github.com/besthost86/besthost86/blob/master/R.jpeg)
 
-![](https://img.shields.io/endpoint?url=&label=HTML&message=Web&style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/endpoint?url=https://github.com/besthost86/besthost86/edit/main/README.md&label=HTML&message=Web&style=for-the-badge&logo=appveyor)
 * JS
 * HTML
 * REACT
