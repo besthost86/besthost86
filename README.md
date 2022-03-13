@@ -7,7 +7,7 @@
 <img width="1000px" height="20px" src="anim.svg">
 
 > SKILLS
-* <img src="js.svg">JS
+* <img width="24px" src="js.svg">JS
 * HTML
 * REACT
 * TYPESCRIPT
