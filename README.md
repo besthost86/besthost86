@@ -4,7 +4,7 @@
 </p>
 
 <img width="1200px" height="200px" src=doggy.png>
-<img width="1200px" height="50px" src="anim.svg">
+<img width="1200px" height="30px" src="anim.svg">
 
 
 * JS
