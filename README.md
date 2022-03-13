@@ -1,6 +1,6 @@
 
 <p align="center">
-<h1 style="color: red;">Hi there 👋, I'm </h1> `Sebastian`
+Sebastian
 </p>
 
 <img width="1000px" height="200px" src=doggy.png>
