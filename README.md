@@ -1,6 +1,6 @@
 
 <p align="center">
-<h1 style="color: red;">Hi there 👋, I'm <span style="color: red;">Sebastian</span>.</h1>
+<h1 style="color: red;">Hi there 👋, I'm ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`</h1>
 </p>
 
 <img width="1000px" height="200px" src=doggy.png>
