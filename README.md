@@ -6,7 +6,7 @@
 <img width="1000px" height="200px" src=doggy.png>
 <img width="1000px" height="20px" src="anim.svg">
 
-> SKILLS  <img width="24px" src="js.svg">
+> SKILLS  &nbsp&nbsp&nbsp&nbsp&nbsp <img width="24px" src="js.svg">
 * HTML
 * REACT
 * TYPESCRIPT
