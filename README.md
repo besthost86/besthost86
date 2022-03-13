@@ -9,4 +9,4 @@
 * HTML
 * REACT
 * TYPESCRIPT
-<img width="50px" src="anim.svg">
+<img width="200px" src="anim.svg">
