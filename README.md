@@ -5,7 +5,7 @@
 
 ![Dog](https://github.com/besthost86/besthost86/blob/master/R.jpeg)
 
-## SKILLS
+![](https://img.shields.io/endpoint?url=<URL>&style<STYLE>)
 * JS
 * HTML
 * REACT
