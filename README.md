@@ -3,7 +3,7 @@
 <h1 style="color: red;">Hi there 👋, I'm Sebastian </h1>
 </p>
 
-<img align="end" height="300px" src=R.jpeg>
+<img width="100%" height="300px" src=R.jpeg>
 <img height="50px" src="anim.svg">
 
 
