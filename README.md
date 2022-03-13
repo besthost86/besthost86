@@ -1,7 +1,5 @@
 
-<p align="center">
-Sebastian
-</p>
+### Hi there, I'm `Sebastian`
 
 <img width="1000px" height="200px" src=doggy.png>
 <img width="1000px" height="20px" src="anim.svg">
