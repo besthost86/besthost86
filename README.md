@@ -1,9 +1,13 @@
 
 ### <h3 align="center">Hi there, I'm `Sebastian`</h3>
-<div align="center">![Gmail](https://img.shields.io/badge/learning-blue?style=for-the-badge)
+<div align="center">
+
+![Gmail](https://img.shields.io/badge/learning-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/stuff-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/every-red?style=for-the-badge)
-![](https://img.shields.io/badge/day-red?style=for-the-badge)</div>
+![](https://img.shields.io/badge/day-red?style=for-the-badge)
+
+</div>
 
 <img width="1000px" height="200px" src=doggy.png>
 <img width="1000px" height="20px" src="anim.svg">
