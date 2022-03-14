@@ -5,7 +5,7 @@
 ![Gmail](https://img.shields.io/badge/learning-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/stuff-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/every-red?style=for-the-badge)
-![](https://img.shields.io/badge/day-red?style=for-the-badge)
+![](https://img.shields.io/badge/day-green?style=for-the-badge)
 
 </div>
 
