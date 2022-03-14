@@ -1,6 +1,5 @@
 
-### <h3 align="center">Hi there, I'm `Sebastian`</h3>
- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=hello world) `#1589F0`
+### <h3 align="center">Hi there, I'm `Sebastian`</h3> [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 
 <img width="1000px" height="200px" src=doggy.png>
 <img width="1000px" height="20px" src="anim.svg">
