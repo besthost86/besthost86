@@ -1,6 +1,7 @@
 
-### <h3 align="center">Hi there, I'm `Sebastian`</h3>![Gmail](https://img.shields.io/badge/github-blue?style=for-the-badge)
-[](https://img.shields.io/badge/github-blue?style=for-the-badge)
+### <h3 align="center">Hi there, I'm `Sebastian`</h3>
+![Gmail](https://img.shields.io/badge/github-blue?style=for-the-badge)
+![](https://img.shields.io/badge/gmail-red?style=for-the-badge)
 
 <img width="1000px" height="200px" src=doggy.png>
 <img width="1000px" height="20px" src="anim.svg">
