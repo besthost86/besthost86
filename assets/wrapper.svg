@@ -6,7 +6,7 @@
             left: 40%;
             top: 15%;
             width: 80px;
-            offset-path: path('M 12.015427,205.24009 C 37.303932,286.4054 123.70886,331.76196 204.87423,306.47348 286.03952,281.18489 331.37952,194.78066 306.09111,113.61556 280.80271,32.450496 194.41355,-12.894523 113.24849,12.393923 32.083457,37.682335 -13.273091,124.07473 12.015427,205.24009 Z');
+            offset-path: path('M 158.89305,5.4228473 C 73.879468,5.5172241 4.9503294,74.595469 5.0446654,159.60909 5.1391281,244.62265 74.221627,313.53578 159.23496,313.44142 244.24825,313.34708 313.1617,244.2805 313.0673,159.26716 312.97293,74.253877 243.90667,5.3284815 158.89305,5.4228473 Z');
             transform: scale(-1);
             }
         foreignObject {
@@ -37,67 +37,86 @@
         @keyframes moveJs {
             0%,20%{
                offset-distance: 0%;  
+               opacity: 0;
             }
             60%,80%{
                 offset-distance: 100%; 
+                opacity: 1;          
+
             }
             100% {
-                offset-distance: 0%;           
+                offset-distance: 0%;
+                 opacity: 0;
             }
         }
         @keyframes moveMongo {
             0%,20%{
                offset-distance: 0%;  
+               opacity: 0;
             }
             60%,80%{
                 offset-distance: 67%; 
+                opacity: 1;
             }
             100% {
-                offset-distance: 0%;           
+                offset-distance: 0%;   
+                opacity: 0;        
             }
         }
         @keyframes moveReact {
             0%,20%{
                offset-distance: 0%;  
+                opacity: 0; 
             }
             60%,80%{
                 offset-distance: 83.5%; 
+                 opacity: 1;
             }
             100% {
-                offset-distance: 0%;           
+                offset-distance: 0%;
+                 opacity: 0;           
             }
         }
          @keyframes moveTs {
             0%,20%{
-               offset-distance: 0%;  
+               offset-distance: 0%;
+                opacity: 0;   
             }
             60%,80%{
                 offset-distance: 50.5%; 
+                 opacity: 1;
             }
             100% {
-                offset-distance: 0%;           
+                offset-distance: 0%; 
+                 opacity: 0;         
             }
         }
            @keyframes moveSql {
             0%,20%{
                offset-distance: 0%;  
+                opacity: 0; 
             }
             60%,80%{
                 offset-distance: 34%; 
+                 opacity: 1;
             }
             100% {
-                offset-distance: 0%;           
+                offset-distance: 0%; 
+                 opacity: 0;          
             }
         }
              @keyframes moveHtml {
             0%,20%{
                offset-distance: 0%;  
+                opacity: 0; 
             }
             60%,80%{
                 offset-distance: 17.5%; 
+                 opacity: 1;
             }
             100% {
-                offset-distance: 0%;           
+                offset-distance: 0%; 
+                opacity: 0;     
             }
         }
        </style>
