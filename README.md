@@ -10,7 +10,7 @@
 
 </div>
 
-<img width="1000px" height="200px" src=doggy.png>
+<img width="1000px" height="200px" src=doggy.svg>
 <img width="1000px" height="20px" src="assets/anim.svg">
 
 > SKILLS  &nbsp;  &nbsp;  &nbsp;   <img width="24px" src="assets/js.svg"> &nbsp;  &nbsp;  &nbsp; <img width="24px" src="assets/ts.svg">
