@@ -17,5 +17,5 @@
 > &nbsp;  &nbsp;  &nbsp; <img width="24px" src="assets/react.svg"> &nbsp;  &nbsp;  &nbsp; <img width="24px" src="assets/html.svg">
 &nbsp;  &nbsp;  &nbsp; <img width="24px" src="assets/mongo.svg"> &nbsp;  &nbsp;  &nbsp; <img width="24px" src="assets/sql.svg">  
 ##
-![](https://img.shields.io/github/languages/top/besthost86/MERN_demo?color=yell&logo=javascript)
+![](https://img.shields.io/github/languages/top/besthost86/challenges?color=yell&logo=javascript)
 ![](https://img.shields.io/github/languages/top/besthost86/nextjs-pokemon-fetch?logo=typescript)
